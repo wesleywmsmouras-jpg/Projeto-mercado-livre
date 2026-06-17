@@ -2,7 +2,7 @@ const products = [
     {
         id: 1,
         title: "Smartphone Samsung Galaxy A13",
-        price: 1599.,
+        price: 1599.00,
         discount: 15,
         imagem: "https://i.ibb.co/93sSXmwv/br-galaxy-a13-sm-a135-sm-a135mzkjleb-535106493.avif"
     },
@@ -84,4 +84,3 @@ document.addEventListener('DOMContentLoaded', () => {
         searchProducts(e.target.value);
     });
 });
-33
