@@ -23,12 +23,10 @@ body {
     padding: 10px;
 }
 
-    .logo {
-
-        height: 84px;
-        margin-bottom: 10px;
-
-    }
+.logo {
+    height: 84px;
+    margin-bottom: 10px;
+}
 
     .search-container {
         display: flex;

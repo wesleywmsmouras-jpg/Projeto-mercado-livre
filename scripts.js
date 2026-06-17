@@ -84,3 +84,4 @@ document.addEventListener('DOMContentLoaded', () => {
         searchProducts(e.target.value);
     });
 });
+33
